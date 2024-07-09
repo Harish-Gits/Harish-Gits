@@ -9,7 +9,6 @@ I am an aspiring Data Analyst
 * 🧠  I'm learning Data Analysis and Machine Learning
 * 🤝  I'm open to collaborating on data analysis and machine learning projects
 
-
 <a href="https://www.github.com/Harish-Gits" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Harish-Gits?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
 
@@ -35,6 +34,7 @@ src="https://img.shields.io/github/followers/Harish-Gits?logo=github&style=for-t
 <a href="https://www.linkedin.com/in/harish-raja-selvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harish-raja-selvan" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/harish_rs_gfg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harish_rs_gfg" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/v9q35WDFqX/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/v9q35WDFqX" height="30" width="40" /></a>
+<a href="https://www.instagram.com/harish_rajaselvan?igsh=MWp5OXQxbDA3OG95cA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harish_rajaselvan" height="30" width="40" /></a>
 </p>  
 <br/> 
 
@@ -49,10 +49,11 @@ src="https://img.shields.io/github/followers/Harish-Gits?logo=github&style=for-t
   
 <a href="https://github.com/Harish-Gits" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Gits&langs_count=10&title_color=f97316&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<a href="https://www.geeksforgeeks.org/user/harish_rs_gfg/"><img src="https://github-readme-geeksforgools.vercel.app/api?username=harish_rs_gfg&theme=dark" alt="Harish Raja Selvan's GeeksforGeeks profile" /></a>
+
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=Harish-Gits&&style=flat-square" align="center" /> </div>
 
+--------------------------------
+Credit: [Harish Raja Selvan](https://github.com/Harish-Gits)
 
-  --------------------------------
-  Credit: [Harish Raja Selvan](https://github.com/Harish-Gits)
-
-  Last Edited on: 09/07/2024
+Last Edited on: 09/07/2024
