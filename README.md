@@ -1,68 +1,58 @@
-# 🌟 Harish Raja Selvan
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harish Raja Selvan
+==================================================================================================================================
 
-📍 Tirunelveli, Tamil Nadu | 📧 harish14rs@gmail.com | 📞 +91 6379613919  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/harish-raja-selvan) [![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/Harish-Gits)
+I am an aspiring Data Analyst
+------------------------------
 
----
+* 🌍  I'm based in Tamil Nadu, India
+* ✉️  You can contact me at [harish14rs@gmail.com](mailto:harish14rs@gmail.com)
+* 🧠  I'm learning Data Analysis and Machine Learning
+* 🤝  I'm open to collaborating on data analysis and machine learning projects
 
-## 🎯 About Me
 
-I'm a motivated individual seeking a role where I can contribute and grow. With strong technical skills in software and applications, I'm ready to take on challenges. My time management ensures tasks are completed efficiently. I'm adaptable and eager to learn, making me suitable for various roles. Excited about the chance to join your team and learn from experienced mentors as I begin my career journey.  
-👨‍🎓 **Bachelor of Technology (B. Tech. CSE)**  
-🗓 **Oct 2021 - Present**  
-🏫 Kalasalingam Academy of Research and Education, Srivilliputhur.  
-📊 **CGPA:** 8.03
+<a href="https://www.github.com/AkileshSaravanan" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Harish-Gits?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
 
----
+<h1 align="center">Languages and Tools:</h1>
+<br/> 
+<p align="center"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> </a> 
+<a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power bi" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="excel" width="40" height="40"/> </a> 
+<a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter notebook" width="40" height="40"/> </a> 
+<a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/> </a> 
+</p>
+<br/>  
+<br/> 
 
-## 💻 Technical Skills
+<h1 align="center">Connect with me:</h1>
+<br/> 
+<p align="center">
+<a href="https://x.com/HarishRajaSelv1?t=WRxnl7PBNU1Qp5IhubAlgg&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HarishRajaSelv1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harish-raja-selvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harish-raja-selvan" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/harish_rs_gfg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harish_rs_gfg" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/v9q35WDFqX/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/v9q35WDFqX" height="30" width="40" /></a>
+</p>  
+<br/> 
 
-- **Languages:** Python, SQL, Java, C
-- **Data Analytics Tools:** Power BI
-- **Concepts:** Object-Oriented Programming (OOP), Data Analytics
+<h1 align='center'>Badges</h1>
+<br/> 
+  <div align='center'>
+<b>My GitHub Stats</b>
 
----
+<a href="http://www.github.com/AkileshSaravanan"><img src="https://github-readme-stats.vercel.app/api?username=AkileshSaravanan&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="AkileshSaravanan's GitHub stats" /></a>
+  
+<a href="http://www.github.com/AkileshSaravanan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AkileshSaravanan&stroke=a855f7&background=0f172a&ring=f97316&fire=f97316&currStreakNum=a855f7&currStreakLabel=f97316&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+  
+<a href="https://github.com/AkileshSaravanan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkileshSaravanan&langs_count=10&title_color=f97316&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-## 🚀 Projects
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=AkileshSaravanan&&style=flat-square" align="center" /> </div>
 
-### 🎵 SQL - Music Store Data Analysis [View on GitHub](https://github.com/Harish-Gits)
 
-- Extracted insights on customers, products, and sales.
-- Informed decisions on stocking, marketing, and customer targeting.
+  --------------------------------
+  Credit: [Harish Raja Selvan](https://github.com/Harish-Gits)
 
-### 🏨 Python - Hospitality Domain Analysis [View on GitHub](https://github.com/Harish-Gits)
-
-- Enhanced Atliq Grand's revenue through Python data analysis, cleaning, transformation, and visualization.
-- Recommendations: Targeted marketing for Mumbai, Premium room improvements, Weekend promotions.
-
----
-
-## 📊 Internship
-
-### Data Analyst Intern @ iNeuron.ai
-
-- Developed a Power BI dashboard for insightful data presentation.
-- Enhanced skills in data analytics and visualization tools.
-
----
-
-## 📜 Certifications
-
-- **SQL Beginner to Advance for Data Professionals**
-- **Python for Data Analysis**
-
----
-
-## 🌟 Others
-
-### Hobbies & Interests
-
-- **Music 🎶:** Avid listener of various genres.
-- **Travel 🌍:** Exploring new cultures and places.
-- **Reading 📚:** Enjoys reading tech blogs and articles.
-- **Gaming 🎮:** Casual gamer with a preference for strategy games.
-
----
-
-Thank you for taking the time to review my resume. I look forward to the opportunity to discuss how I can contribute to your team.
-
+  Last Edited on: 09/07/2024
