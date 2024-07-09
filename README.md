@@ -10,7 +10,7 @@ I am an aspiring Data Analyst
 * 🤝  I'm open to collaborating on data analysis and machine learning projects
 
 
-<a href="https://www.github.com/AkileshSaravanan" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/Harish-Gits" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Harish-Gits?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
 
 <h1 align="center">Languages and Tools:</h1>
@@ -43,13 +43,13 @@ src="https://img.shields.io/github/followers/Harish-Gits?logo=github&style=for-t
   <div align='center'>
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AkileshSaravanan"><img src="https://github-readme-stats.vercel.app/api?username=AkileshSaravanan&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="AkileshSaravanan's GitHub stats" /></a>
+<a href="http://www.github.com/Harish-Gits"><img src="https://github-readme-stats.vercel.app/api?username=Harish-Gits&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="Harish Raja Selvan's GitHub stats" /></a>
   
-<a href="http://www.github.com/AkileshSaravanan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AkileshSaravanan&stroke=a855f7&background=0f172a&ring=f97316&fire=f97316&currStreakNum=a855f7&currStreakLabel=f97316&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+<a href="http://www.github.com/Harish-Gits"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Harish-Gits&stroke=a855f7&background=0f172a&ring=f97316&fire=f97316&currStreakNum=a855f7&currStreakLabel=f97316&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
   
-<a href="https://github.com/AkileshSaravanan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkileshSaravanan&langs_count=10&title_color=f97316&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Harish-Gits" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Gits&langs_count=10&title_color=f97316&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=AkileshSaravanan&&style=flat-square" align="center" /> </div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=Harish-Gits&&style=flat-square" align="center" /> </div>
 
 
   --------------------------------
