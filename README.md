@@ -9,7 +9,7 @@ I am an aspiring Data Analyst
 * 🧠  I'm learning Data Analysis and Machine Learning
 * 🤝  I'm open to collaborating on data analysis and machine learning projects
 * 🌐  [View My Portfolio](https://harish-gits.github.io/)
-* 📄  [Download My Resume]([https://github.com/AkileshSaravanan/resume.pdf](https://harish-gits.github.io/images/HarishRS-Resume2.pdf))
+* 📄  [Download My Resume](https://harish-gits.github.io/images/HarishRS-Resume2.pdf)
 
 <a href="https://www.github.com/Harish-Gits" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Harish-Gits?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
