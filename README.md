@@ -44,14 +44,15 @@ src="https://img.shields.io/github/followers/Harish-Gits?logo=github&style=for-t
 <br/> 
   <div align='center'>
 
+<b> My GeeksforGeeks Stats</b>
+
+<a href="https://www.geeksforgeeks.org/user/harish_rs_gfg/"><img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=harish_rs_gfg" alt="My GeeksforGeeks profile" /></a>
     
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Harish-Gits"><img src="https://github-readme-stats.vercel.app/api?username=Harish-Gits&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="Harish Raja Selvan's GitHub stats" /></a>
   
 <a href="http://www.github.com/Harish-Gits"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Harish-Gits&stroke=a855f7&background=0f172a&ring=f97316&fire=f97316&currStreakNum=a855f7&currStreakLabel=f97316&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
-
-<a href="https://www.geeksforgeeks.org/user/harish_rs_gfg/"><img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=harish_rs_gfg" alt="My GeeksforGeeks profile" /></a>
 
 
 
