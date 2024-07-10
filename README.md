@@ -52,7 +52,7 @@ src="https://img.shields.io/github/followers/Harish-Gits?logo=github&style=for-t
 
 <b> My LeetCode stats
 
-![Leetcode Stats](https://leetcard.harish_rs_leetcode/harish_rs_leetcode?theme=wtf)
+![Leetcode Stats](https://leetcard.jacoblin.cool/harish_rs_leetcode?theme=wtf)
     
 <b>My GitHub Stats</b>
 
