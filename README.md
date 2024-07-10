@@ -8,6 +8,10 @@ I am an aspiring Data Analyst
 * ✉️  You can contact me at [harish14rs@gmail.com](mailto:harish14rs@gmail.com)
 * 🧠  I'm learning Data Analysis and Machine Learning
 * 🤝  I'm open to collaborating on data analysis and machine learning projects
+* <p align="center">
+  <a href="https://github.com/AkileshSaravanan/portfolio" target="_blank">View My Portfolio</a> •
+  <a href="https://github.com/AkileshSaravanan/resume.pdf" target="_blank">Download My Resume</a>
+</p>
 
 <a href="https://www.github.com/Harish-Gits" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Harish-Gits?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
@@ -49,7 +53,8 @@ src="https://img.shields.io/github/followers/Harish-Gits?logo=github&style=for-t
   
 <a href="http://www.github.com/Harish-Gits"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Harish-Gits&stroke=a855f7&background=0f172a&ring=f97316&fire=f97316&currStreakNum=a855f7&currStreakLabel=f97316&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
-<a href="https://www.geeksforgeeks.org/user/harish_rs_gfg/"><img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=harish_rs_gfg" alt="Harish Raja Selvan's GeeksforGeeks profile" /></a>
+<a href="https://www.geeksforgeeks.org/user/harish_rs_gfg/"><img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=harish_rs_gfg" alt="My GeeksforGeeks profile" /></a>
+
 
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=Harish-Gits&&style=flat-square" align="center" /> </div>
