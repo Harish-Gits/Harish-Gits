@@ -18,13 +18,12 @@ src="https://img.shields.io/github/followers/Harish-Gits?logo=github&style=for-t
 <br/> 
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://coderslegacy.com/wp-content/uploads/2020/05/Pandas_Logo.jpg" target="_blank" rel="noreferrer"> <img src="https://coderslegacy.com/wp-content/uploads/2020/05/Pandas_Logo.jpg" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> </a> 
-  <a href="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" target="_blank" rel="noreferrer"> <img src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png" alt="excel" width="40" height="40"/> </a> 
   <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power bi" width="40" height="40"/> </a> 
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png" alt="excel" width="40" height="40"/> </a> 
+  <a href="[https://coderslegacy.com/wp-content/uploads/2020/05/Pandas_Logo.jpg](https://www.vhv.rs/dpng/d/442-4429725_python-logo-clipart-easy-transparent-pandas-python-logo.png)" target="_blank" rel="noreferrer"> <img src="https://coderslegacy.com/wp-content/uploads/2020/05/Pandas_Logo.jpg" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter notebook" width="40" height="40"/> </a> 
   <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/> </a> 
 </p>
