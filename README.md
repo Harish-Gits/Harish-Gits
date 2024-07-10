@@ -11,8 +11,7 @@ I am an aspiring Data Analyst
 * 🌐  [View My Portfolio](https://harish-gits.github.io/)
 * 📄  [Download My Resume](https://harish-gits.github.io/images/HarishRS-Resume2.pdf)
 
-<a href="https://www.github.com/Harish-Gits" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Harish-Gits?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=Harish-Gits&&style=flat-square" align="center" /> </div>
 
 <h1 align="center">Languages and Tools</h1>
 <br/> 
@@ -61,8 +60,6 @@ src="https://img.shields.io/github/followers/Harish-Gits?logo=github&style=for-t
 <a href="http://www.github.com/Harish-Gits"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Harish-Gits&stroke=a855f7&background=0f172a&ring=f97316&fire=f97316&currStreakNum=a855f7&currStreakLabel=f97316&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
 
-
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=Harish-Gits&&style=flat-square" align="center" /> </div>
 
 --------------------------------
 Credit: [Harish Raja Selvan](https://github.com/Harish-Gits)
