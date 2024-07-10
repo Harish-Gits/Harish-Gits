@@ -14,7 +14,7 @@ I am an aspiring Data Analyst
 <a href="https://www.github.com/Harish-Gits" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Harish-Gits?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
 
-<h1 align="center">Languages and Tools:</h1>
+<h1 align="center">Languages and Tools</h1>
 <br/> 
 <p align="center"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -22,14 +22,15 @@ src="https://img.shields.io/github/followers/Harish-Gits?logo=github&style=for-t
 <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> </a> 
 <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power bi" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="excel" width="40" height="40"/> </a> 
+<a href="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="excel" width="40" height="40"/> </a> 
 <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter notebook" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/> </a> 
 </p>
 <br/>  
 <br/> 
 
-<h1 align="center">Connect with me:</h1>
+<h1 align="center">Connect with me</h1>
 <br/> 
 <p align="center">
 <a href="https://x.com/HarishRajaSelv1?t=WRxnl7PBNU1Qp5IhubAlgg&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HarishRajaSelv1" height="30" width="40" /></a>
