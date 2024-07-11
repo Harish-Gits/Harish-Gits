@@ -36,7 +36,6 @@ I am an aspiring Data Analyst
 <a href="https://leetcode.com/u/harish_rs_leetcode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/v9q35WDFqX" height="30" width="40" /></a>
 <a href="https://www.instagram.com/harish_rajaselvan?igsh=MWp5OXQxbDA3OG95cA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harish_rajaselvan" height="30" width="40" /></a>
 </p>  
-<br/> 
 
 <h1 align='center'>Badges</h1>
 <br/> 
