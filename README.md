@@ -36,7 +36,7 @@ I am an aspiring Data Analyst
 <a href="https://x.com/HarishRajaSelv1?t=WRxnl7PBNU1Qp5IhubAlgg&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HarishRajaSelv1" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/harish-raja-selvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harish-raja-selvan" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/harish_rs_gfg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harish_rs_gfg" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/v9q35WDFqX/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/v9q35WDFqX" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/harish_rs_leetcode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/v9q35WDFqX" height="30" width="40" /></a>
 <a href="https://www.instagram.com/harish_rajaselvan?igsh=MWp5OXQxbDA3OG95cA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harish_rajaselvan" height="30" width="40" /></a>
 </p>  
 <br/> 
