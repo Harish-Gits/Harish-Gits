@@ -27,9 +27,6 @@ I am an aspiring Data Analyst
   <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/> </a> 
 </p>
 
-<br/>  
-<br/> 
-
 <h1 align="center">Connect with me</h1>
 <br/> 
 <p align="center">
