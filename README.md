@@ -1,15 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harish Raja Selvan
 ==================================================================================================================================
 
-I am an aspiring Data Analyst
-------------------------------
+I am an aspiring Software Engineer
+----------------------------------
 
-* 🌍  I'm based in Tamil Nadu, India
-* ✉️  You can contact me at [harish14rs@gmail.com](mailto:harish14rs@gmail.com)
+* 🎓  I'm a final-year graduate from Kalasalingam University
 * 🧠  I'm learning Data Analysis and Machine Learning
 * 🤝  I'm open to collaborating on data analysis and machine learning projects
+* 🌍  I'm based in Tamil Nadu, India
 * 🌐  [View My Portfolio](https://harish-gits.github.io/)
 * 📄  [Download My Resume](https://harish-gits.github.io/images/HarishRS-Resume2.pdf)
+* ✉️  You can contact me at [harish14rs@gmail.com](mailto:harish14rs@gmail.com)
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=Harish-Gits&&style=flat-square" align="center" /> </div>
 
