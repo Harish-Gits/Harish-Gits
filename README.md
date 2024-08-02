@@ -9,7 +9,7 @@ I am an aspiring Software Engineer
 * 🤝  I'm open to collaborating on data analysis and machine learning projects
 * 🌍  I'm based in Tamil Nadu, India
 * 🌐  [View My Portfolio](https://harish-gits.github.io/)
-* 📄  [Download My Resume](https://harish-gits.github.io/images/HarishRS-Resume2.pdf)
+* 📄  [Download My Resume](https://harish-gits.github.io/images/Harish_RS_Resume.pdf)
 * ✉️  You can contact me at [harish14rs@gmail.com](mailto:harish14rs@gmail.com)
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=Harish-Gits&&style=flat-square" align="center" /> </div>
