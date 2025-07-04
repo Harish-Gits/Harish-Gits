@@ -1,16 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harish Raja Selvan
 ==================================================================================================================================
 
-💻 Computer Science student and software engineering intern currently interning at MulticoreWare.
-
-🚀 Currently diving into platforms and compilers, building my foundational knowledge.
-
-🛠️ Excited to gain hands-on experience in cross-platform development and refine my software engineering skills.
-
-🧠 Passionate about problem-solving and eager to tackle complex challenges.
-
-🤝 Looking forward to learning from experienced professionals and expanding my expertise in the industry.
-
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=Harish-Gits&&style=flat-square" align="center" /> </div>
 
 <h1 align="center">Languages and Tools</h1>
